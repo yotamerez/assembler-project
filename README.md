@@ -43,6 +43,7 @@ Execute the assembler with an input file:
 Input:
 ```
 test1.as
+```
 
 Output:
 
