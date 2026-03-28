@@ -30,7 +30,7 @@ Compile the project using:
 
 ```bash
 make
-
+```
 ## Run
 
 Execute the assembler with an input file:
