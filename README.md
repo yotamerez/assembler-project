@@ -25,8 +25,39 @@ The project includes preprocessing for macro expansion, parsing of assembly sour
 - `makefile` - build file
 
 ## Build
-Compile with:
+
+Compile the project using:
 
 ```bash
 make
 
+---
+
+## ▶️ Run
+
+```markdown
+## Run
+
+Execute the assembler with an input file:
+
+```bash
+./assembler test1
+
+## Example
+Input:
+test1.as
+
+Output:
+Base 10 address  Base 2 code
+
+100		        ........//./..
+101		        ....//........
+102		        ..../....././.
+103		        ..///../../...
+104		        .....///./../.
+105		        ////////////..
+106		        .........//...
+107	        	....//........
+108	        	/////////.//..
+109		        ...././.../...
+110		        ............./
