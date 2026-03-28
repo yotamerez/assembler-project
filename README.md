@@ -31,11 +31,6 @@ Compile the project using:
 ```bash
 make
 
----
-
-## ▶️ Run
-
-```markdown
 ## Run
 
 Execute the assembler with an input file:
