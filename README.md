@@ -39,6 +39,7 @@ Execute the assembler with an input file:
 ```bash
 ./assembler test1
 ```
+
 ## Example
 Input:
 test1.as
