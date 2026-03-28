@@ -1,0 +1,7 @@
+assembler
+*.o
+*.am
+*.ob
+*.ent
+*.ext
+
