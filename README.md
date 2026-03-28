@@ -44,6 +44,8 @@ Input:
 test1.as
 
 Output:
+
+```
 Base 10 address  Base 2 code
 
 100		        ........//./..
