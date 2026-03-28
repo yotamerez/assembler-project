@@ -41,6 +41,7 @@ Execute the assembler with an input file:
 
 ## Example
 Input:
+```
 test1.as
 
 Output:
