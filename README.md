@@ -38,7 +38,7 @@ Execute the assembler with an input file:
 ````markdown
 ```bash
 ./assembler test1
-
+```
 ## Example
 Input:
 test1.as
