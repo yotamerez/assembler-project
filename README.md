@@ -35,7 +35,6 @@ make
 
 Execute the assembler with an input file:
 
-````markdown
 ```bash
 ./assembler test1
 ```
